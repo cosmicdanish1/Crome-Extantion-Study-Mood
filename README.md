@@ -44,3 +44,4 @@ Click in "This Firefox" and "Load Temporary Add-on...", select manifest file
 This project is licensed under the [MIT](./LICENSE)
 "# Crome-Extantion-Study-Mood" 
 "# Crome-Extantion-Study-Mood" 
+"# Crome-Extantion-Study-Mood" 
