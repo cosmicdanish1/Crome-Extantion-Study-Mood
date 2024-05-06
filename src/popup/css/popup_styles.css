@@ -10,36 +10,45 @@ h6{
 }
 
 .header{
+  background-color: white;
   display: flex;
   align-items: center;
   justify-content: center
 }
 
 .header img{
-  margin-right: 6px;
+  background-color: white;
+  margin-right: 10px;
 }
 
 .no-shadows {
-  box-shadow: none !important;
+  box-shadow:  23px 23px 45px #9f9f9f,
+  -23px -23px 45px #ffffff;
 }
 
 .card {
+  background-color: white;
   margin: 0;
   padding: 0;
+  border-radius: 20px;
+  border-style:none ;
+  
 }
 
 .switch label input[type=checkbox]:checked+.lever {
-background-color: #ef5350 ;
+background-color: #50efe7 ;
 }
 
 .switch label input[type=checkbox]:checked+.lever:after {
-background-color: #f44336;
+background-color: #ffffff;
 }
 
 .section{
+  background-color: white;
 vertical-align: middle;
 }
 
 .row{
+  
   margin-bottom: 0;
 }

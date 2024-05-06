@@ -1,14 +1,14 @@
 {
   "extension_name": {
-    "message": "Disable Youtube comments",
+    "message": "No Comment",
     "description": "extension name"
   },
   "extension_description": {
-    "message": "Protect your sanity by disabling comments on any youtube video",
+    "message": "To foced on study  you have  disabling comments on any youtube video",
     "description": "Description of the extension"
   },
   "comments_disabled": {
-    "message": "Comments Disabled",
+    "message": "No Comment",
     "description": "Title content injected"
   },
   "alt_image_brain": {
@@ -20,19 +20,19 @@
     "description": "text displayed inside the show comments button"
   },
   "popup_hint": {
-    "message": "* Refresh a page to apply the settings",
+    "message": "* Reload the page to implement the changes",
     "description": "Tip that is displayed inside the popup"
   },
   "popup_hide_comments": {
-    "message": "Hide comments",
+    "message": " No comments Mood On",
     "description": "option hide comments"
   },
   "popup_hide_content": {
-    "message": "Display illustration and \"Show comments\" button",
+    "message": "warning \"Show comments\" button",
     "description": "option display button"
   },
   "popup_footer": {
-    "message": "Are you interested in this extension? Contribute!",
+    "message": "Visit my Git Profile",
     "description": "Text displayed at the bottom of the popup"
   }
 }

@@ -19,8 +19,8 @@
 
 #button-show-comments{
   background: var(--yt-spec-brand-button-background);
-  border: none;
-  border-radius: 2px;
+ 
+
   color: var(--yt-spec-static-brand-white);
   padding: var(--yt-button-padding);
   margin: auto var(--ytd-subscribe-button-margin, 4px);
